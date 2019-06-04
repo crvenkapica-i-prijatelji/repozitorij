@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<ljudi>
+<osoba>
+	<ime>Ivona</ime>
+	<prezime>Varga</prezime>
+	<oib>0130305250</oib>
+</osoba>
+<osoba>
+	<ime>Anica</ime>
+	<prezime>Varga</prezime>
+	<oib>OvoJeMaminOIB</oib>
+</osoba>
+<osoba><ime>tin</ime><prezime>dragicevic</prezime><oib>nekioib</oib></osoba><osoba><ime>Doris</ime><prezime>Varga</prezime><oib>DorisMiNe&#x17D;eliDatOIB</oib></osoba><osoba><ime>ivona</ime><prezime>varga</prezime><oib>3blablbbla</oib></osoba></ljudi>
